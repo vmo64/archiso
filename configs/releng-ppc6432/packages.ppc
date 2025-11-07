@@ -73,6 +73,8 @@ kitty-terminfo
 #linux-atm
 #linux-firmware
 #linux-firmware-marvell
+linux-firmware-nvidia
+linux-firmware-radeon
 #livecd-sounds
 lsscsi
 lvm2
