@@ -69,8 +69,8 @@ lftp
 #libusb-compat
 #linux
 linux-atm
-#linux-firmware
 #linux-firmware-marvell
+linux-firmware-amdgpu
 #livecd-sounds
 lsscsi
 lvm2

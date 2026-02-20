@@ -42,6 +42,8 @@ libusb-compat
 linux-ppc64
 linux-atm
 linux-firmware-amdgpu
+linux-firmware-radeon
+linux-firmware-nvidia
 livecd-sounds
 lsscsi
 lvm2
