@@ -29,6 +29,9 @@ gptfdisk
 grml-zsh-config
 grub
 hdparm
+hfsutils
+hfsprogs
+iprutils
 irssi
 iw
 iwd
